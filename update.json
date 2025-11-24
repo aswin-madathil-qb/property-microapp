@@ -1,12 +1,18 @@
 {
     "app_name": "remoteApp",
-    "latest_version": "1.0.0",
+    "latest_version": "1.0.1",
     "versions": {
         "1.0.0": {
             "buildVersion": 1,
             "release_date": "2025-11-20",
             "is_mandatory": false,
             "release_notes": "Initial bundle."
+        },
+        "1.0.1": {
+            "buildVersion": 1,
+            "release_date": "2025-11-24",
+            "is_mandatory": false,
+            "release_notes": "Test updation."
         }
     }
 }
